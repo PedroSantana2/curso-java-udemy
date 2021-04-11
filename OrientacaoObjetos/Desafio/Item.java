@@ -1,4 +1,4 @@
-package OrientacaoObjetos.Desafio;
+package Desafio;
 
 public class Item {
 

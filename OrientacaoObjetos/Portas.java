@@ -1,5 +1,3 @@
-package OrientacaoObjetos;
-
 public class Portas {
 
     boolean aberta;

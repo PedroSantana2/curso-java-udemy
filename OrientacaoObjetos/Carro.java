@@ -1,5 +1,3 @@
-package OrientacaoObjetos;
-
 public class Carro {
 
     Motor motor = new Motor();

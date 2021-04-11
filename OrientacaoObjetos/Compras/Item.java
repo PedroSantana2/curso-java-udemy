@@ -1,4 +1,4 @@
-package OrientacaoObjetos.Compras;
+package Compras;
 
 public class Item {
 

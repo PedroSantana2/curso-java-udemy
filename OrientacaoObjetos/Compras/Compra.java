@@ -1,4 +1,4 @@
-package OrientacaoObjetos.Compras;
+package Compras;
 
 import java.util.ArrayList;
 
