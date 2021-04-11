@@ -1,5 +1,3 @@
-package EstruturasDeControle;
-
 import java.util.Scanner;
 
 public class DezPar {

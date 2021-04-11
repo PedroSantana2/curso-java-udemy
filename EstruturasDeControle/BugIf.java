@@ -1,5 +1,3 @@
-package EstruturasDeControle;
-
 public class BugIf {
     public static void main(String[] args) {
         double nota = 1.3;
