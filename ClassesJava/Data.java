@@ -1,5 +1,3 @@
-package ClassesJava;
-
 public class Data {
 
     long dia;

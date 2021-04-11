@@ -1,4 +1,4 @@
-package ClassesJava.Desafio;
+package Desafio;
 
 public class Pessoa {
     

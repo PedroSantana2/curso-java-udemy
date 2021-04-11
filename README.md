@@ -5,5 +5,5 @@
 ---
 - [x] [Estruturas de controle.](https://github.com/PedroSantana2/curso-java-udemy/tree/main/EstruturasDeControle)
 ---
-- [x] [Classes.]()
+- [x] [Classes.](https://github.com/PedroSantana2/curso-java-udemy/tree/main/ClassesJava)
 ---

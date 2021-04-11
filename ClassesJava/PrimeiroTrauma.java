@@ -1,5 +1,3 @@
-package ClassesJava;
-
 public class PrimeiroTrauma {
 
     int a = 3;
