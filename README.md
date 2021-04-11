@@ -7,3 +7,5 @@
 ---
 - [x] [Classes.](https://github.com/PedroSantana2/curso-java-udemy/tree/main/ClassesJava)
 ---
+- [x] [Arrays.](https://github.com/PedroSantana2/curso-java-udemy/tree/main/Arrays)
+---
